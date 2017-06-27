@@ -24,8 +24,9 @@
 - **independent_metrics** folder contains all metrics calculated for statistical analyses along various dimentions.
  
 ### How to user the analytic scripts
-1. Consecutively execute the data mining scripts to extract data for statistical analyses.
-2. Execute the data analysis scripts to compare characteristics between accepted vs. rejected patches (RQ1), and between fault-inducing vs. clean patches (RQ2).
+1. Generate `commit_date.csv` by executing the following command: `hg log --template '{node|short}\t{date|isodate}\n' > commit_date.csv`.
+2. Consecutively execute the data mining scripts to extract data for statistical analyses.
+3. Execute the data analysis scripts to compare characteristics between accepted vs. rejected patches (RQ1), and between fault-inducing vs. clean patches (RQ2).
 
 ### Data source
 - Bugzilla: https://www.bugzilla.org
