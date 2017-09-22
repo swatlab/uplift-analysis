@@ -35,3 +35,6 @@
 ### Tool
 - Understand: https://scitools.com/
 - igraph: http://igraph.org
+
+### Other
+- **Presentation at ICSME.pdf** presentation slides at ICSME 2017.
