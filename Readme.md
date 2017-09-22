@@ -37,4 +37,4 @@
 - igraph: http://igraph.org
 
 ### Other
-- **Presentation at ICSME.pdf** presentation slides at ICSME 2017.
+- **presentation_ICSME.pdf** presentation slides at ICSME 2017.
