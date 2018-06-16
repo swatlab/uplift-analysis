@@ -7,7 +7,10 @@
 
 ### Research questions
 - RQ1: What are the characteristics of patches that are uplifted?
-- RQ2: What are the characteristics of uplifted patches that introduced faults in the system?
+- RQ2: How effective are uplift operations?
+- RQ3: What are the characteristics of uplifted patches that introduced faults in the system?
+- RQ4: Are regressions caused by uplift more severe than the bugs that were fixed with the uplift?
+- RQ5: Could some of the regressions have been prevented through more exten- sive testing on the channels?
 
 ### Data mining scripts
 - **bug_inducing.py**: identifies fault-inducing patches based on the SZZ algorithm.
@@ -17,8 +20,9 @@
 - **review_metrics.py**: extract code review-related metrics from comments and patch flags in the issue reports.
 
 ### Data Analysis scripts
-- **comparison_acceptation.py**: performs Wilcoxon rank sum test and Cliff's data effect size analysis to compare the characteristics between accepted pathces and rejected patches for uplift.
-- **comparison_failure.py**:  performs Wilcoxon rank sum test and Cliff's data effect size analysis to compare the characteristics between fault-inducing patches and clean patches that are uplifted.
+- **comparison_acceptation.py**: performs Mann-Whitney U test and Cliff's data effect size analysis to compare the characteristics between accepted pathces and rejected patches for uplift.
+- **comparison_failure.py**:  performs Mann-Whitney U test and Cliff's data effect size analysis to compare the characteristics between fault-inducing patches and clean patches that are uplifted.
+- **sample_analyses.ipynb**: shows the statistics on the manual analysis results of RQ2, RQ4, and RQ5. 
 
 ### Data folder
 - **independent_metrics** folder contains all metrics calculated for statistical analyses along various dimentions.

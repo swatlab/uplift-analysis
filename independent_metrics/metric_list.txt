@@ -7,7 +7,6 @@ ratio_comment
 closeness
 betweenness
 page_rank
-release_delta
 comments
 developer_familiarity_overall
 reviewer_familiarity_overall

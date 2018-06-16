@@ -1,0 +1,17 @@
+uplift_id,cloned_id,why,channels
+1062920,1078163,partially fixed,aurora^beta
+1066319,1127173,partially fixed,aurora
+1073910,1122344,partially fixed,aurora^beta
+1078262,1097776,partially fixed,aurora^beta
+1111328,1139779,partially fixed,aurora
+1121829,1126185,partially fixed,aurora^beta
+1134387,1139380,partially fixed,aurora^beta
+1154683,1158568,partially fixed,release^aurora
+1164264,1173634,not fixed,aurora^beta
+1170211,1186002,partially fixed,aurora^beta
+1177461,1180610,partially fixed,beta
+1180379,1193802,partially fixed,aurora^beta
+1242450,1255841,regressions,aurora
+1257861,1263533,not fixed,release^aurora^beta
+1262556,1264807,partially fixed,aurora
+1271516,1289571,other,aurora

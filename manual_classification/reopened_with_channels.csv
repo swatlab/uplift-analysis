@@ -1,0 +1,93 @@
+uplift_id,why,channels
+1049138,partially fixed,aurora^beta
+1059797,not fixed,aurora^beta
+1062920,partially fixed,aurora^beta
+1063808,regressions^test failure,aurora^beta
+1064515,INVALID,aurora^beta
+1068571,INVALID,aurora
+1074378,regressions,aurora^beta
+1078539,not fixed,aurora^beta
+1079621,not fixed,beta
+1085330,partially fixed,aurora^beta
+1086958,regressions,aurora^beta
+1090415,partially fixed,aurora^beta
+1090633,not fixed,aurora
+1092606,partially fixed,aurora
+1096089,partially fixed,aurora^beta
+1099345,not fixed,beta
+1104306,not fixed,beta
+1104623,need more tests,aurora
+1104748,INVALID,release^beta
+1106559,not fixed,aurora^beta
+1112709,not fixed,aurora
+1121406,regressions,aurora
+1121857,need more tests,release^aurora^beta
+1123202,partially fixed,aurora^beta
+1124018,not fixed,aurora^beta
+1124880,partially fixed,beta
+1125848,not fixed,aurora^beta
+1128953,regressions,aurora
+1130411,not fixed,aurora
+1133939,INVALID,aurora
+1136360,regressions,aurora^beta
+1137009,regressions,aurora
+1137229,not fixed,aurora^beta
+1137716,not fixed,release^aurora^beta
+1138967,regressions,aurora^beta
+1139860,partially fixed,aurora^beta
+1140440,partially fixed,aurora^beta
+1141081,partially fixed,aurora^beta
+1151506,not fixed,release^aurora^beta
+1152145,INVALID,beta
+1154003,partially fixed,release^aurora
+1154703,not fixed,release^aurora^beta
+1158343,need more QA,release
+1159321,INVALID,beta
+1160295,not fixed,release^aurora^beta
+1167230,other,aurora
+1169867,not fixed,aurora^beta
+1170531,partially fixed,aurora
+1181595,partially fixed,aurora
+1182097,regressions,aurora
+1183725,not fixed,aurora^beta
+1184009,partially fixed,aurora^beta
+1185960,partially fixed,aurora^beta
+1188822,other,aurora^beta
+1189715,diagnostics,aurora^beta
+1194488,partially fixed,aurora^beta
+1194859,not fixed,aurora^beta
+1195844,not fixed,release^aurora^beta
+1198586,partially fixed,aurora
+1207784,partially fixed,aurora^beta
+1211344,INVALID,aurora
+1211615,partially fixed,aurora^beta
+1219832,partially fixed,aurora
+1220531,INVALID,aurora
+1228287,INVALID,aurora
+1230774,partially fixed,aurora
+1232150,INVALID,aurora
+1233237,regressions,release^aurora^beta
+1234673,partially fixed,aurora
+1235605,INVALID,aurora^beta
+1236329,INVALID,aurora
+1241171,other,aurora
+1242450,regressions,aurora
+1245870,INVALID,aurora
+1247432,regressions,aurora
+1249600,not fixed,aurora^beta
+1252414,need more tests,aurora
+1253507,regressions^test failure,aurora
+1256992,regressions,aurora^beta
+1265468,partially fixed,aurora
+1266309,INVALID,aurora
+1268749,regressions^test failure,aurora^beta
+1268922,not fixed,release^aurora^beta
+1270689,partially fixed,aurora^beta
+1273252,INVALID,beta
+1274913,partially fixed,beta
+1275040,partially fixed,aurora
+1275694,partially fixed,aurora
+1276403,regressions,aurora
+1277272,need more tests,aurora
+1277358,partially fixed,beta
+1280110,partially fixed,aurora^beta

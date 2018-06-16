@@ -1,0 +1,110 @@
+uplift_id,why,channels
+1044975,regressions,release
+1054959,regressions,aurora
+1062256,partially fixed,beta
+1063052,diagnostics,aurora^beta
+1068189,regressions^test failures,aurora^beta
+1069300,other,aurora
+1072100,INVALID,aurora^beta
+1073607,INVALID,aurora
+1074272,INVALID,beta
+1083071,partially fixed^regressions,release^aurora^beta
+1085203,INVALID,beta
+1088247,other^regressions^test failures,aurora
+1101122,regressions^test failures,beta
+1101147,IGNORE,beta
+1101669,INVALID,beta
+1101670,INVALID,beta
+1105045,other,aurora
+1107666,other,aurora^beta
+1111947,regressions^test failures,aurora
+1116812,partially fixed,beta
+1120149,INVALID,aurora
+1122322,regressions,aurora^beta
+1123498,need more tests,aurora
+1123535,regressions^test failure,aurora
+1123983,other,aurora
+1128027,regressions^test failures,beta
+1128069,other^regressions^test failures,beta
+1128454,diagnostics,aurora
+1130231,other^regressions^test failures,aurora
+1131433,regressions^test failures,beta
+1133633,diagnostics,beta
+1134064,INVALID,aurora
+1134501,other,beta
+1137470,other,aurora
+1144055,other,aurora
+1146663,INVALID,aurora
+1149377,INVALID,aurora
+1150297,other,beta
+1151804,regressions^test failures,aurora
+1155608,not fixed,aurora
+1156131,regressions,aurora^beta
+1156182,partially fixed,aurora
+1158761,regressions^test failures,beta
+1160890,regressions,aurora^beta
+1162662,INVALID,aurora
+1162860,other^regressions^test failures,beta
+1162863,INVALID,aurora
+1163814,INVALID,aurora
+1166031,other,aurora
+1166886,INVALID,aurora
+1170143,partially fixed,aurora^beta
+1170809,regressions^test failures,aurora
+1175783,regressions,beta
+1181130,INVALID,aurora
+1181735,not fixed,beta
+1182197,other,beta
+1185115,partially fixed,aurora^beta
+1189030,other^regressions,beta
+1192505,INVALID,beta
+1198107,INVALID,beta
+1200021,INVALID,beta
+1200698,INVALID,beta
+1201796,INVALID,aurora
+1202421,INVALID,beta
+1207665,partially fixed,aurora^beta
+1211360,INVALID,aurora
+1211849,regressions,beta
+1217156,INVALID,aurora
+1218799,regressions,aurora
+1220010,INVALID,beta
+1220033,INVALID,aurora^beta
+1221855,regressions^test failures,beta
+1222617,regressions^test failures,aurora
+1224433,other^regressions^test failures,aurora
+1225645,regressions,beta
+1226487,partially fixed,aurora^beta
+1227024,INVALID,beta
+1234054,other,beta
+1234280,regressions,beta
+1236754,INVALID,beta
+1240985,partially fixed,aurora
+1242176,INVALID,beta
+1243549,other,beta
+1243607,regressions^test failures,aurora
+1244650,regressions,beta
+1246854,partially fixed,beta
+1246956,regressions,aurora^beta
+1247327,regressions^build failures,beta
+1247977,diagnostics,aurora
+1248948,regressions^build failures,aurora
+1249849,regressions^build failures,aurora
+1257234,regressions^test failures,beta
+1258317,diagnostics,aurora
+1258375,regressions,aurora
+1260908,regressions^build failures,aurora
+1262661,partially fixed,aurora
+1264694,other^regressions^build failures,aurora
+1265815,INVALID,aurora
+1266440,INVALID,beta
+1266889,regressions^test failure,beta
+1268559,partially fixed,aurora
+1268922,not fixed^regressions,release^aurora^beta
+1270664,regressions^test failures,aurora
+1274096,other,aurora
+1274516,regressions^build failures,aurora
+1279208,other,aurora^beta
+1285052,regressions^build failures,beta
+1290086,other,aurora
+1290365,other^regressions^test failures,aurora^beta

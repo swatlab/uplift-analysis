@@ -1,0 +1,74 @@
+uplift_id,regression_id,reproducible,how_found
+1116056,1204580,reproducible,found by tooling
+1116056,1186149,reproducible,found on a widely used feature/website/config
+1116056,1149278,reproducible,found on a rarely used feature/website/config
+1108035,1123966,reproducible,found on a widely used feature/website/config
+1220037,1223520,reproducible,found by tooling
+1146201,1288976,reproducible,found by developers
+1171629,1186149,reproducible,found on a widely used feature/website/config
+1124031,1237842,unknown,found via telemetry
+1232069,1253471,reproducible,found on a rarely used feature/website/config
+1132468,1176551,reproducible,found on a rarely used feature/website/config
+1112972,1151309,reproducible,found on a widely used feature/website/config
+1131638,1145101,reproducible,found on a widely used feature/website/config
+1159973,1195578,reproducible,found by tooling
+1177505,1216096,reproducible,found on a widely used feature/website/config
+1244500,1265173,not reproducible (except by reporter),found on a rarely used feature/website/config
+1125848,1180688,reproducible (but not by everyone),found on a rarely used feature/website/config
+1125848,1153939,not reproducible,found via telemetry
+1146874,1256992,not reproducible,found via telemetry
+1151495,1200004,reproducible,found by developers
+1121332,1289942,reproducible,found by developers
+1267980,1276930,not reproducible,found via telemetry
+1063733,1078211,reproducible,found by developers
+1141931,1230408,reproducible,found by tooling
+1141931,1181890,reproducible,found on a widely used feature/website/config
+1141931,1229437,reproducible,found by tooling
+1141931,1156222,reproducible,found by tooling
+1066726,1123920,reproducible,found on a rarely used feature/website/config
+1138391,1207571,reproducible,found by tooling
+1180101,1244523,reproducible,found on a widely used feature/website/config
+1182411,1257759,reproducible,found by developers
+1147857,1153056,reproducible,found on a widely used feature/website/config
+1085266,1124880,not reproducible,found via telemetry
+1073345,1173195,reproducible,found by developers
+1244523,1251184,reproducible,found on a widely used feature/website/config
+1116376,1150639,unknown,found by developers
+1238558,1292505,unknown,found by developers
+1125503,1147497,reproducible,found by developers
+1143194,1149510,reproducible,found by tooling
+1105194,1227136,reproducible,found via telemetry
+1194576,1221825,reproducible,found by developers
+1073805,1096764,reproducible,found on a widely used feature/website/config
+1078354,1190676,reproducible,found by tooling
+1065909,1147497,reproducible,found by developers
+1153123,1221348,reproducible (but not by everyone),found via telemetry
+1234422,1237582,not reproducible (except by reporter),found on a widely used feature/website/config
+1234422,1257759,reproducible,found by developers
+1128769,1209751,reproducible,found by developers
+1060738,1154389,reproducible,found by tooling
+1212499,1253386,reproducible,found on a widely used feature/website/config
+1225003,1230692,reproducible,found by tooling
+1089364,1147728,reproducible,found by developers
+1089364,1104008,not reproducible,found via telemetry
+1089364,1135271,reproducible,found on a rarely used feature/website/config
+1049138,1117338,not reproducible (except by reporter),found on a rarely used feature/website/config
+1054972,1070955,reproducible,found by tooling
+1082734,1183450,reproducible,found by tooling
+1082734,1093611,reproducible,found on a widely used feature/website/config
+1097437,1123019,reproducible,found on a widely used feature/website/config
+1242904,1261318,unknown,found via telemetry
+1111971,1164567,unknown,found by developers
+1253379,1263028,unknown,found via telemetry
+1211000,1243453,reproducible,found on a widely used feature/website/config
+1226148,1257759,reproducible,found by developers
+1193387,1200656,reproducible,found by developers
+1154366,1156662,reproducible,found by tooling
+1147521,1153145,reproducible,found on a rarely used feature/website/config
+1096089,1125776,reproducible,found by developers
+1243538,1266013,reproducible,found by developers
+1205456,1209843,not reproducible,found via telemetry
+1262731,1264403,reproducible,found by developers
+1061327,1088984,reproducible,found on a widely used feature/website/config
+1213567,1240607,reproducible (but not by everyone),found via telemetry
+1200021,1230740,reproducible (but not by everyone),found via telemetry

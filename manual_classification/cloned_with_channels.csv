@@ -1,0 +1,48 @@
+uplift_id,cloned_id,why,channels
+1051822,1122729,INVALID,aurora^beta
+1079835,1095231,partially fixed,aurora
+1085330,1091785,partially fixed,aurora^beta
+1089454,1154003,partially fixed,aurora
+1089454,1162520,partially fixed,aurora
+1096026,1103273,partially fixed,aurora^beta
+1102911,1104846,partially fixed,beta
+1105137,1113526,partially fixed,aurora
+1105137,1142318,partially fixed,aurora
+1119363,1157415,partially fixed,aurora
+1133187,1142769,INVALID,aurora
+1133426,1142939,other,beta
+1144649,1268215,INVALID,aurora^beta
+1145844,1165549,INVALID,release^aurora
+1145844,1195789,INVALID,release^aurora
+1147283,1229330,regressions,beta
+1151345,1181977,partially fixed,aurora^beta
+1154003,1162520,partially fixed,release^aurora
+1160295,1195844,partially fixed,release^aurora^beta
+1165549,1181562,INVALID,aurora^beta
+1165549,1195789,INVALID,aurora^beta
+1167230,1178961,other,aurora
+1173357,1179249,partially fixed,aurora^beta
+1179110,1183888,regressions,aurora
+1185820,1192350,partially fixed,aurora^beta
+1188344,1198724,INVALID,beta
+1188376,1198345,INVALID,aurora^beta
+1188822,1251792,other,aurora^beta
+1191423,1233784,partially fixed,aurora
+1194817,1198730,regressions,aurora^beta
+1197913,1264271,partially fixed,aurora
+1203184,1230238,INVALID,aurora
+1207785,1211046,regressions,aurora
+1208071,1215195,INVALID,aurora^beta
+1234673,1243882,partially fixed,aurora
+1238892,1250661,INVALID,beta
+1240528,1241621,partially fixed,release
+1245463,1258410,INVALID,aurora^beta
+1251527,1273024,partially fixed,aurora
+1253667,1257181,diagnostics,aurora
+1255270,1279208,not fixed,aurora^beta
+1255270,1283067,partially fixed,aurora^beta
+1268208,1278636,INVALID,aurora
+1270161,1271493,partially fixed,aurora^beta
+1274132,1275739,partially fixed,aurora^beta
+1279208,1283067,partially fixed,aurora^beta
+1284958,1292721,INVALID,beta
