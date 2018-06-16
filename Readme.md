@@ -1,4 +1,4 @@
-# Is It Safe to Uplift This Patch? - An Empirical Study on Mozilla Firefox
+# Is It Safe to Uplift This Patch? <br/><sub> An Empirical Study on Mozilla Firefox </sub>
 
 ### Requirements
 - Python 2.7 or newer
