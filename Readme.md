@@ -1,4 +1,4 @@
-# Is It Safe to Uplift This Patch? <br/><sub> An Empirical Study on Mozilla Firefox </sub>
+# An Empirical Study of Patch Uplift in Rapid Release Development Pipelines
 
 ### Requirements
 - Python 2.7 or newer
